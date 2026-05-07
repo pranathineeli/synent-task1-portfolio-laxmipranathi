@@ -120,7 +120,8 @@ footer{
     background-color:#0f172a;
     color:white;
     text-align:center;
-    padding:20px; 
+    padding:30px; 
+    font-size: 18px;
 }
 @media(max-width:768px){
 .navbar{
